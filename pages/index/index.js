@@ -15,5 +15,11 @@ Page({
       knowDay: util.getDayBetween(this.data.knowDate),
       meetDay: util.getDayBetween(this.data.meetDate)
     })
+  },
+  /**
+     * 用户点击右上角分享
+     */
+  onShareAppMessage: function () {
+
   }
 })
