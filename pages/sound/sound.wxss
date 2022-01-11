@@ -1,15 +1,23 @@
 /* pages/sound/sound.wxss */
 .index-background {
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    position: fixed;
-  }
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  position: fixed;
+}
 
-  .text-title {
-    padding-top: 20%;
-    padding-left: 2%;
-    font-size: 28px;
-    font-style: italic;
-    color: #FFCCCC;
-  }
+.bubble {
+  width: 80%;
+  height: 60%;
+  margin-top: 8%;
+  border:1rpx solid #ddd;
+  border-radius: 16rpx;
+}
+
+.text-title {
+  padding: 2% 2% 2% 2%;
+  font-size: 16px;
+  font-style: italic;
+  color: #FFCCCC;
+}
+
