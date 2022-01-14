@@ -19,7 +19,7 @@ const formatNumber = n => {
 const getDayBetween = n => {
   var now = new Date()
   var time = new Date(n.replace(/-/g, "/"))
-  return parseInt((now.getTime() - time.getTime()) / (1000 * 60 * 60 *24))
+  return parseInt((now.getTime() - time.getTime()) / (1000 * 60 * 60 * 24))
 }
 
 module.exports = {
