@@ -9,7 +9,7 @@
 .bubble {
   width: 80%;
   height: 60%;
-  margin-top: 8%;
+  margin-top: 10%;
   border:1rpx solid #ddd;
   border-radius: 16rpx;
 }

@@ -1,11 +1,11 @@
 <!--pages/sound/sound.wxml-->
 <view class="container">
     <image class="index-background" 
-    src="https://7072-pro-8gazlizc490efa83-1309199495.tcb.qcloud.la/sound_bg.jpg?sign=b334f8ceb0ada4f8877a3da7c99c5fb0&t=1641871022" mode="aspectFill" >
+    src="/images/sound_bg.jpg" mode="aspectFill" >
     </image>
     <view class="bubble">
         <view  class="text-title">
-            <text>Dear J，简约不是少，而是没有多余。足够也不是多，而是刚好你在。</text>
+            <text>{{showLetter}}</text>
         </view>
     </view>
 </view>

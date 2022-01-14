@@ -9,8 +9,8 @@
 .text-body {
   width: 80%;
   height: 60%;
-  padding-top: 80%;
-  padding-left: 5%;
+  padding-top: 70%;
+  padding-left: 10%;
 }
 
 .text-title {
@@ -20,9 +20,9 @@
 }
 
 .text-line-1 {
-  padding-top: 4%;
-  padding-left: 8%;
-  color: #CCCCFF;
+  padding-top: 5%;
+  padding-left: 10%;
   font-size: 32px;
   font-style: italic;
+  color: #CCCCFF;
 }

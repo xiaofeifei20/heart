@@ -14,18 +14,18 @@
     "sitemapLocation": "sitemap.json",
     "tabBar": {
         "color": "#a9b7b7",
-        "selectedColor": "#009966",
+        "selectedColor": "#006699",
         "borderStyle": "white",
         "list": [
           {
-            "selectedIconPath": "images/line_heart.png",
-            "iconPath": "images/line_heart.png",
+            "selectedIconPath": "/images/line_heart_selected.png",
+            "iconPath": "/images/line_heart.png",
             "pagePath": "pages/index/index",
             "text": "首页"
           },
           {
-            "selectedIconPath": "images/line_msg.png",
-            "iconPath": "images/line_msg.png",
+            "selectedIconPath": "/images/line_msg_selected.png",
+            "iconPath": "/images/line_msg.png",
             "pagePath": "pages/sound/sound",
             "text": "悄悄话"
           }

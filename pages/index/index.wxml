@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
   <image class="index-background" 
-  src="https://7072-pro-8gazlizc490efa83-1309199495.tcb.qcloud.la/indexBackground.jpg?sign=075c032e8b12c989b149e59e4a33eeaa&t=1641863845" mode="aspectFill" >
+  src="/images/index_bg.jpg" mode="aspectFill" >
   </image>
 
   <view class="text-body">
