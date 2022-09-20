@@ -8,5 +8,12 @@
             <text>{{showLetter}}</text>
         </view>
     </view>
+    <view class="button-view">
+        <button class="button-change" type="default" plain="true" bindtap="loadLetter">
+            <view>换一句</view>
+        </button>
+    </view>
 </view>
+
+
 

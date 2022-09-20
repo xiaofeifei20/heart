@@ -14,15 +14,15 @@
 }
 
 .text-title {
-  font-size: 14px;
-  font-style: italic;
+  font-size: 16px;
+  font-style: normal;
   color: #99CCCF;
 }
 
 .text-line-1 {
   padding-top: 5%;
-  padding-left: 10%;
+  padding-left: 16%;
   font-size: 32px;
-  font-style: italic;
+  font-style: normal;
   color: #CCCCFF;
 }
